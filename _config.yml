@@ -1,0 +1,28 @@
+name: yellowpad
+favicon: null
+layout_spectrum: 0.36730666318908334
+typography_spectrum: 0.6083786950912327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8094107219949365
+  lightness: 0.3808816741220653
+  saturation: 0.9478702808264643
+  rhythmicContrast: 0.3650913820602
+purpose: []
