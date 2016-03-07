@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[yellowpad]]></title>
         <description><![CDATA[yellowpad]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yellowpad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 03:39:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 06:05:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yellowpad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>It's time to move forward.</p>]]></description>
-            <link>undefined1e78447f-3eda-4dcf-b6a2-f6229e3d123b/index.html</link>
+            <description><![CDATA[<p>It is time to move forward.</p>]]></description>
+            <link>https://thegrid.ai/yellowpad/1e78447f-3eda-4dcf-b6a2-f6229e3d123b/index.html</link>
             <guid isPermaLink="false">1e78447f-3eda-4dcf-b6a2-f6229e3d123b</guid>
-            <pubDate>Sat, 05 Mar 2016 03:39:24 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 06:04:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
